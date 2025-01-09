@@ -1,1 +1,3 @@
-GitCommit
+GitCommit New changes
+12345
+ABCD
