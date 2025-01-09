@@ -1,0 +1,4 @@
+[submodule "test_repo"]
+	path = test_repo
+	url = https://github.com/Simtestlab/test_repo.git
+	branch = main
