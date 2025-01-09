@@ -1,7 +1,6 @@
 # sample_repo
 Sample repo for testing
-
-
+ main
 
 Modifying the readme file
 
@@ -19,3 +18,6 @@ Welcome to Git Gub!!--Gupta
 
 shreyas
 
+
+Veera
+ 
